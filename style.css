@@ -18,7 +18,7 @@ section{
     display: flex;
 }
 .icons-section,.progress-section{
-    margin-top: 15%;
+    margin-top: 20%;
     padding: 30px;
     box-shadow: 0px 6px 0px hsla(229, 57%, 11%, 0.3);
 }
